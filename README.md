@@ -8,7 +8,7 @@ Put TheCooker and TheCookerConfig folder from TheCooker.zip inside your mods fol
 
 Start game. All keybinds can be configured in "options" then "mod keybinds".
 
-Update 21. 16.02.2021 (Require fresh install)
+# Update 21. 16.02.2021 (Require fresh install)
 
 Announce and less spam buttons work independent of each other
 
