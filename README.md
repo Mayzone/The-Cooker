@@ -10,7 +10,7 @@ Start game. All keybinds can be configured in "options" then "mod keybinds".
 
 # Update 21. 18.02.2021 (Require fresh install)
 
-Removed sandboxing for auto bagging. 
+Removed sandbox for auto bagging. 
 
 Less spam is compatible with cook faster mod.
 
