@@ -8,6 +8,16 @@ Download TheCooker.zip and extract the archive. Put TheCooker and TheCookerConfi
 
 Start game. All keybinds can be configured in "options" then "mod keybinds".
 
+# Update 21. 18.02.2021 (Require fresh install)
+
+Removed sandboxing for auto bagging. 
+
+Less spam is compatible with cook faster mod.
+
+Removed some chat messages.
+
+Added changing of menu color in main menu, menu.
+
 # Update 21. 16.02.2021 (Require fresh install)
 
 Announce and less spam buttons work independent of each other.
