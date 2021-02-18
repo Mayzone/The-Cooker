@@ -8,7 +8,7 @@ Download TheCooker.zip and extract the archive. Put TheCooker and TheCookerConfi
 
 Start game. All keybinds can be configured in "options" then "mod keybinds".
 
-# Update 21. 18.02.2021 (Require fresh install)
+# Update 22. 18.02.2021 (Require fresh install)
 
 Removed sandbox for auto bagging. 
 
