@@ -7,6 +7,7 @@ Download and install superBLT from https://superblt.znix.xyz/
 Download TheCooker.zip and extract the archive. Put TheCooker and TheCookerConfig folder from TheCooker.zip inside your mods folder usually located at "C:\Program Files (x86)\Steam\steamapps\common\PAYDAY 2"
 
 Start game. All keybinds can be configured in "options" then "mod keybinds".
+To change the color of your menu, you simply open your menu with the keybind in the main menu.
 
 # Update 22. 18.02.2021 (Require fresh install)
 
