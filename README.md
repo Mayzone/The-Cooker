@@ -9,6 +9,14 @@ Download TheCooker.zip and extract the archive. Put TheCooker and TheCookerConfi
 Start game. All keybinds can be configured in "options" then "mod keybinds".
 To change the color of your menu, you simply open your menu with the keybind in the main menu.
 
+# Update 23. 24.02.2021
+
+Improved performance.
+
+Fixed crash (Not tested).
+
+Fixed identifier (Not tested).
+
 # Update 22. 18.02.2021 (Require fresh install)
 
 Removed sandbox for auto bagging. 
