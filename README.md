@@ -17,6 +17,8 @@ Fixed crash (Not tested).
 
 Fixed identifier (Not tested).
 
+Fixed van spawn at start option being buggy.
+
 # Update 22. 18.02.2021 (Require fresh install)
 
 Removed sandbox for auto bagging. 
