@@ -11,6 +11,8 @@ To change the color of your menu, you simply open your menu with the keybind in 
 
 # Update 25. 24.06.2021 (Requires fresh install)
 
+Added experience message in mod options.
+
 Fixed auto bag after new game update.
 
 Fixed lab exploding.
