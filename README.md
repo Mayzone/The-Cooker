@@ -9,6 +9,12 @@ Download TheCooker.zip and extract the archive. Put TheCooker and TheCookerConfi
 Start game. All keybinds can be configured in "options" then "mod keybinds".
 To change the color of your menu, you simply open your menu with the keybind in the main menu.
 
+# Update 25. 24.06.2021
+
+Fixed auto bag after new game update.
+
+Fixed lab exploding.
+
 # Update 24. 5.03.2021
 
 Fixed a interaction bug in some heists, making you unable to proceed with the task at hand.
