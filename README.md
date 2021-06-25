@@ -9,6 +9,10 @@ Download TheCooker.zip and extract the archive. Put TheCooker and TheCookerConfi
 Start game. All keybinds can be configured in "options" then "mod keybinds".
 To change the color of your menu, you simply open your menu with the keybind in the main menu.
 
+# Update 26. 26.06.2021 (Requires fresh install if older then 25)
+
+Fixed crash on starting heist.
+
 # Update 25. 24.06.2021 (Requires fresh install)
 
 Added experience message in mod options.
